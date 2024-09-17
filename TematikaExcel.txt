@@ -1,0 +1,83 @@
+Tematika Excel
+Excel és programozás
+
+Javasolt óraszám
+Informatika és programozási alapismeretek: 4 (Excel) + 2 (Programozás) + 1 (számonkérés) = 7 óra
+Informatika alapjai: 6 (Excel) +  1 (számonkérés) = 7 óra
+
+Excel Titka Elméleti Kézikönyv Kezdő & Haladó
+Linkek: ECDL
+https://njszt.hu/hu/icdl/modul/tablazatkezeles
+Megoldási javaslat, videókkal
+https://baranyilaszlozsolt.com/ecdl-excel
+Példák
+https://github.com/shadsluiter/ExcelExamples
+Excel függvény referencia
+https://support.microsoft.com/hu-hu/office/az-excel-f%C3%BCggv%C3%A9nyeinek-bet%C5%B1rendes-list%C3%A1ja-b3944572-255d-4efb-bb96-c6d90033e188
+Excel katagóriákba szedett függvény leírások
+https://support.microsoft.com/hu-hu/office/az-excel-f%C3%BCggv%C3%A9nyeinek-kateg%C3%B3ria-szerinti-list%C3%A1ja-5f91f4e9-7b42-46d2-9bd1-63f26a86c0eb
+Webler Excel oktató könyv
+https://www.webler.hu/tananyag/excel/exel%20jegyzet%20fkf.pdf
+Függvények részletes leírása más szemszögből
+https://excelmester.hu/excel-tablazat-fuggvenyek/
+
+
+Később statisztikához
+https://sipos-bela.freewb.hu/kehl-sipos--excel-parancsfajlok/
+
+Digitális tankönyvtár (Itt is lehet keresni, jó tudni róla!)
+https://dtk.tankonyvtar.hu/
+
+300 excel példa (Angol)
+https://www.excel-easy.com/examples.html
+
+
+1. óra
+	Fájformátumok, Excel felépítése (munkafüzet felépítése, munkalapok felépítése)
+	Cellák
+	Adattípusok
+	Hivatkozások munkalapon belül: abszolút, relatív, vegyes, hivatkozások teljes sorra és teljes oszlopra
+	Hivatkozások munkalapok között, -munkafüzetek (állományok) között NE hivatkozzunk!-
+	Névkezelő használata
+	Előzmények, utódok nyilak használata
+	Oszlopok és sorok rendezése, szűrők használata
+	Függvények felépítése: MA() és a kerekítéses függvények
+	Legfontosabb gyorsbillentyűk használata
+2. óra
+	Főbb aggregáló függvények: SZUM(), MIN(), MAX(), és Darab*()-függvények
+	HA-függvénycsalád
+	HA(), HAHIBA(), ÉS(), VAGY(), XVAGY()*, ÜRES(), AZONOS()*
+	Feltételes aggregáció. DARABHATÖBB(), SZUMHATÖBB(), MINHA(), MAXHA()
+	Megjegyzés: ezek használhatóak 1 vagy több feltétel esetén is!
+	Feltételes formázás
+3. óra
+	Nyomtatási beállítások, Oszlop és Sorok rögzítése
+	Kereséses függvények: VKERES(), FKERES(), HOL.VAN(), INDEX()
+	Diákok tudjanak keresni 1 és 2 dimenzióban pontos értéket keresve és tartományban keresve
+	Legyenek képesek leellenőírzni, hogy egy keresésre egy vagy több találat van!
+4. óra
+	Kimutatás-tábla, de részletekbe menően
+	Adatvizualizáció: hagyományos- és kimutatás diagrammok
+	Adatvizualizáció kötelező kellékei! *
+5. és 6. óra (Informatika és programozási alapismeretek)
+	Algoritmus fogalma
+	Forráskód felépítése az oktató által választott programnyelven
+	Ciklusok
+	Pszeudó-kód
+	Legfőbb programozási tételek
+	Összegzés
+	Megszámolás
+	Eldöntés (IF, ELSEIF, SWITCH)
+	Kiválasztás: Maximum, Minimum, célérték
+	Keresés
+	Szétválogatás *
+5. és 6 óra (Informatika alapjai)
+	Modellezés és szimuláció alapjai
+	What-IF elemzés
+	Célérték keresés
+	Solver használata *
+	Trendvonal illesztése függvényre, mozgóátlagolás *
+7. óra : Számokérések
+	Excel gyakorlat: 60 Perc.
+	Elméleti teszt: 60 perc. (Moodle)
+	Programozás teszt: 15 perc. (Moodle)
